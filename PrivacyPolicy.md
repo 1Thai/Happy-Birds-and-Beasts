@@ -28,6 +28,35 @@ Information og oplysning om din software indsamles, vil blive opbevaret på soft
 
 a) Når du bruger softwaren til online-transaktioner, vil du uundgåeligt oplyse dine personlige oplysninger, som f.eks. kontaktoplysninger eller postadresse, til modparten eller potentielle modparten. Beskyt venligst dine personlige oplysninger og giv det kun til andre, når det er nødvendigt. Hvis du opdager, at dine personlige oplysninger lækker, bedes du straks kontakte kundeservice hos kundeservice, så softwaren kan tage tilsvarende foranstaltninger.
 
+
+Programvaren respekterer og beskytter personvernet til alle brukere som bruker tjenestene. For å gi deg mer nøyaktige og personlige tjenester, vil Programvaren bruke og avsløre dine personlige opplysninger i samsvar med denne personvernreglene. Programvaren behandler imidlertid denne informasjonen med høy grad av omhu og forsiktighet. Med mindre annet er angitt i denne personvernreglene, vil Programvaren ikke gi opplysningene eller gi slik informasjon til tredjepart uten din forhåndsgodkjenning. Denne programvaren vil oppdatere denne personvernreglene fra tid til annen. Ved å godta bruksavtalen for programvaretjenester anses du for å ha blitt enige om hele innholdet i denne personvernreglene. Denne personvernreglene er en integrert del av bruksavtalen for programvaretjenesten.
+
+1. Anvendelsesområde
+
+a) Informasjonen på mobiltelefonen din, som automatisk mottas og registreres av programvaren når du bruker programvarenettverkstjenesten, inkludert, men ikke begrenset til, helsedata, språk, dato og klokkeslett for tilgang, informasjon om maskinvare og programvare og dine behov Nettstedsposter og andre data;
+
+2. Bruk av informasjon
+
+a) Etter at du har hentet dataene, laster programvaren den opp til serveren for å generere dataene til leaderboardet ditt slik at du kan bruke tjenesten bedre.
+
+3. Informasjonsopplysninger
+
+a) Programvaren vil ikke avsløre informasjonen din til ikke-troverdige tredjeparter.
+
+b) gi opplysning til tredjeparter eller administrative eller rettslige myndigheter i samsvar med de relevante bestemmelser i loven eller kravene fra administrative eller rettslige myndigheter
+
+c) Hvis du bryter med relevante kinesiske lover, forskrifter eller relevante regler, må du avsløre det til en tredjepart.
+
+4. Informasjon lagring og utveksling
+
+Informasjonen og materialene som er samlet inn av Programvaren om deg, blir lagret på Programvaren og / eller dets tilknyttede servere, som kan sendes til ditt land, område eller stedet der Programvaren samler informasjon og materiale. Den er tilgjengelig, lagret og vist utenfor landet.
+
+5. Informasjonssikkerhet
+
+a) Når du bruker programvarewebtjenesten for online-transaksjoner, vil du uunngåelig avsløre din personlige informasjon, for eksempel kontaktinformasjon eller postadresse, til motparten eller potensiell motpart. Vennligst vær så snill å beskytte dine personlige opplysninger og kun gi den til andre når det er nødvendig. Hvis du finner ut at din personlige informasjon er lekkasje, vennligst kontakt kundeservice kundeservice umiddelbart, slik at programvaren kan ta tilsvarende tiltak.
+
+
+
 ซอฟต์แวร์เคารพและปกป้องความเป็นส่วนตัวของผู้ใช้ทั้งหมดที่ใช้บริการ เพื่อที่จะให้บริการที่ถูกต้องและเป็นส่วนตัวแก่คุณมากขึ้นซอฟต์แวร์จะใช้และเปิดเผยข้อมูลส่วนบุคคลของคุณตามนโยบายส่วนบุคคลนี้ อย่างไรก็ตามซอฟต์แวร์จะรักษาข้อมูลนี้ด้วยความรอบคอบและรอบคอบ ยกเว้นที่ระบุไว้เป็นอย่างอื่นในนโยบายความเป็นส่วนตัวนี้ซอฟต์แวร์จะไม่เปิดเผยหรือให้ข้อมูลดังกล่าวแก่บุคคลที่สามโดยไม่ได้รับอนุญาตจากคุณก่อน ซอฟต์แวร์นี้จะอัพเดตนโยบายความเป็นส่วนตัวนี้เป็นครั้งคราว การยอมรับข้อตกลงในการใช้บริการซอฟต์แวร์ถือว่าคุณได้ยอมรับเนื้อหาทั้งหมดของนโยบายความเป็นส่วนตัวนี้แล้ว นโยบายความเป็นส่วนตัวนี้เป็นส่วนหนึ่งของข้อตกลงการใช้บริการซอฟต์แวร์
 
 1. ขอบเขตการสมัคร
